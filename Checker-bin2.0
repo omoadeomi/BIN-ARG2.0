@@ -13,12 +13,8 @@ echo -e " \e[1;34%%\e[0m\e[1;37m%%\e[0m\e[1;34m%%\e[0m\e[1;36mMetodo 2023\e[0m\e
 echo -e "                            \e[1;31m \/.\e[0m \e[1;37m1.8\e[0m \e[1;32mBeta\e[0m"
 while :
 do
-echo -e "\e[1;37m[\e[0m\e[1;32m1\e[0m\e[1;37m]\e[0m \e[1;33mPagina de Carding\e[0m"
-echo -e "\e[1;37m[\e[0m\e[1;32m2\e[0m\e[1;37m]\e[0m \e[1;33mChecker Argentina\e[0m"
-echo -e "\e[1;37m[\e[0m\e[1;32m3\e[0m\e[1;37m]\e[0m \e[1;33mChecker bin\e[0m"
-echo -e "\e[1;37m[\e[0m\e[1;32m4\e[0m\e[1;37m]\e[0m \e[1;33mQue es Carding\e[0m"
-echo -e "\e[1;37m[\e[0m\e[1;32m5\e[0m\e[1;37m]\e[0m \e[1;33mBot Arcadia(telegram)\e[0m"
-echo -e -n "\e[1;31m>> \e[0m"
+echo -e "\e[1;37m[\e[0m\e[1;32m1\e[0mPENE
+
 read checker
 case $checker in
 1)
